@@ -1,0 +1,8 @@
+transformers
+tensorflow
+tf-keras
+pandas
+TensorRT
+assemblyai
+supabase
+datetime
